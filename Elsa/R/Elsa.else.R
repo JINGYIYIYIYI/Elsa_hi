@@ -1,7 +1,7 @@
 #' Elsa.else Function
 #'
-#' 用于计算分组后除自身外的其他观测值的汇总指标：例如求和、平均值、分位数等
-#' @author Yu Li_XMU
+#' 用于计算分组后除自身外的其他观测值的汇总指标：例如求和、平均值、分位数等 git版本尝试改变
+#' @author Yu Li_XMU 
 #' @param df_you 数据集
 #' @param id_name 须生成id的列
 #' @param group_name 是分组的变量,若需要group的有多个组,如city-year组，只需给新的组合city-year打上id即可

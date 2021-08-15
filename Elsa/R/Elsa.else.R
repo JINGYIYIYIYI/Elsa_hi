@@ -1,5 +1,5 @@
 #' Elsa.else Function
-#'
+#' 再修改一次 试试看
 #' 用于计算分组后除自身外的其他观测值的汇总指标：例如求和、平均值、分位数等 git版本尝试改变
 #' @author Yu Li_XMU 
 #' @param df_you 数据集
